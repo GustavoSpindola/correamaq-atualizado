@@ -76,7 +76,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         title: "TANQUE VERTICAL",
 
-        category: "Alimentícia e Farmacêutica",
+        category: "Indústria alimentícia",
 
         image: "assets/images/tanque.png",
 
@@ -84,7 +84,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         fabrication: "Fabricada sob medida",
 
-        application: "Linhas de produção alimentícias e farmacêuticas",
+        application: "Linhas de produção alimentícias",
 
         description:
             "A solução ideal para armazenar líquidos com segurança, higiene e eficiência. Unindo resistência, durabilidade e praticidade em um único equipamento.",
@@ -115,9 +115,9 @@ document.addEventListener('DOMContentLoaded', () => {
     },
 
     "mesa-giratoria": {
-        title: "MESA ACUMULADORA GIRATÓTIA",
+        title: "MESA ACUMULADORA GIRATÓRIA",
 
-        category: "Alimenticis e Farmacêutica",
+        category: "Indústria alimentícia",
 
         image: "assets/images/mesa-giratoria.png",
 
@@ -125,10 +125,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
         fabrication: "Fabricado sob medida",
 
-        application: "Linhas de produção alimenticias e farmacêuticas",
+        application: "Linhas de produção alimentícias",
 
         description:
-            "Equipamneto desenvolvido para otimizar o fluxo de produção, proporcionando o acúmolo, organização e movimentação contínua de produtos entre diferente etapas do processo produtivo.",
+            "Equipamento desenvolvido para otimizar o fluxo de produção, proporcionando o acúmulo, organização e movimentação contínua de produtos entre diferente etapas do processo produtivo.",
         
         features: [
 
@@ -146,7 +146,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "lava-botas": {
         title: "LAVADOR DE BOTAS",
 
-        category: "Alimenticia e Farmacêuticas",
+        category: "Indústria alimentícia",
 
         image: "assets/images/lava-botas-sem-fundo.png",
 
@@ -175,7 +175,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         title: "MEESA EM AÇO INOX",
 
-        category: "Alimenticia",
+        category: "Indústria alimentícia",
 
         image: "assets/images/mesa-inox.png",
 
@@ -202,9 +202,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
     "carro-queijo": {
 
-        title: "CARROS PARA RESFRIAMENTO DE QUEIJPOS",
+        title: "CARROS PARA RESFRIAMENTO DE QUEIJOS",
 
-        category: "Industria alimenticia",
+        category: "Indústria alimentícia",
 
         image: "assets/images/carro-queijo.png",
 
@@ -215,7 +215,7 @@ document.addEventListener('DOMContentLoaded', () => {
         application: "Laticínios",
 
         description: 
-            "Equipamentos desenvolvidos para atendes às exigências das indústrias alimentícias com segurança, higiene e durabilidade.",
+            "Equipamentos desenvolvidos para atender às exigências das indústrias alimentícias com segurança, higiene e durabilidade.",
         
         features: [
 
@@ -233,7 +233,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         title: "PRENSAS PARA QUEIJOS",
 
-        category: "Industria alimenticia",
+        category: "Indústria alimentícia",
 
         image: "assets/images/prensa-queijo.png",
 
@@ -244,7 +244,7 @@ document.addEventListener('DOMContentLoaded', () => {
         application: "Laticínios",
 
         description: 
-            "Equipamentos desenvolvidos para atendes às exigências das indústrias alimentícias com segurança, higiene e durabilidade.",
+            "Equipamentos desenvolvidos para atender às exigências das indústrias alimentícias com segurança, higiene e durabilidade.",
         
         features: [
 
@@ -261,7 +261,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "coifas": {
         title: "COIFAS",
 
-        category: "Industria alimenticia",
+        category: "Indústria alimentícia",
 
         image: "assets/images/coifa.png",
 
@@ -289,7 +289,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "bancadas": {
         title: "BANCADAS",
 
-        category: "Industria alimenticia",
+        category: "Indústria alimentícia",
 
         image: "assets/images/bancada.png",
 
@@ -317,7 +317,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "armario": {
         title: "ARMÁRIOS EM AÇO INOX",
 
-        category: "Industrial alimenticia e geral",
+        category: "Indústria alimentícia e geral",
 
         image: "assets/images/armario.png",
 
@@ -328,7 +328,7 @@ document.addEventListener('DOMContentLoaded', () => {
         application: "Indústrias em geral",
 
         description:
-            "Equipamento desenvolvido para atendeR às exigências das indústrias alimentícias com segurança, higiene e durabilidade",
+            "Equipamento desenvolvido para atender às exigências das indústrias alimentícias com segurança, higiene e durabilidade",
 
         features: [
             
@@ -345,7 +345,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "escada": {
         title: "ESCADAS",
 
-        category: "Industrial alimenticia e geral",
+        category: "Indústria alimentícia e geral",
 
         image: "assets/images/escadas.png",
 
@@ -371,7 +371,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "carro-transporte": {
         title: "CARROS TRANSPORTADORES",
 
-        category: "Industrial alimenticia e geral",
+        category: "Indústria alimentícia e geral",
 
         image: "assets/images/carro-transportador.png",
 
@@ -397,7 +397,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "calhas-ralos": {
         title: "CALHAS E RALOS",
 
-        category: "Industrial alimenticia e geral",
+        category: "Indústria alimentícia e geral",
 
         image: "assets/images/calhas-ralos.png",
 
@@ -423,7 +423,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "carrinho-movimentacao": {
         title: "CARRINHOS PARA MOVIENTAÇÃO DE CAIXAS",
 
-        category: "Industrias em geral",
+        category: "Indústrias em geral",
 
         image: "assets/images/carrinho-cx.png",
 
@@ -451,7 +451,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "carro-plataforma": {
         title: "CARRINHOS PLATAFORMA",
 
-        category: "Industrias em geral",
+        category: "Indústrias em geral",
 
         image: "assets/images/carrinho-plataforma.jpg",
 
@@ -534,7 +534,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
 
     "churrasqueira-deslizante": {
-        title: "CHURRASQUEIRA COM GRELhA DESLIZANTE",
+        title: "CHURRASQUEIRA COM GRELHA DESLIZANTE",
 
         category: "Geral",
 
@@ -565,7 +565,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "esteira-tora": {
         title: "ESTEIRAS DE TORA",
 
-        category: "Indústria madereia",
+        category: "Indústria madereira",
 
         image: "assets/images/esteira.png",
 
@@ -594,7 +594,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "virador-tora": {
         title: "VIRADOR DE TORA",
 
-        category: "Indústria madereia",
+        category: "Indústria madereira",
 
         image: "assets/images/vira-tora.png",
 
