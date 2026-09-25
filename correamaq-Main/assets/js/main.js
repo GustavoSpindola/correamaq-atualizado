@@ -112,7 +112,514 @@ document.addEventListener('DOMContentLoaded', () => {
             "Rodízios (quando aplicável)"
         ]
 
-    }
+    },
+
+    "mesa-giratoria": {
+        title: "MESA ACUMULADORA GIRATÓTIA",
+
+        category: "Alimenticis e Farmacêutica",
+
+        image: "assets/images/mesa-giratoria.png",
+
+        material: "Aço inox 304",
+
+        fabrication: "Fabricado sob medida",
+
+        application: "Linhas de produção alimenticias e farmacêuticas",
+
+        description:
+            "Equipamneto desenvolvido para otimizar o fluxo de produção, proporcionando o acúmolo, organização e movimentação contínua de produtos entre diferente etapas do processo produtivo.",
+        
+        features: [
+
+            "Acúmulo eficiente",
+
+            "Fácil operação",
+
+            "Guias ajustáveis",
+
+            "Estruturas Robusta"
+        ]
+
+    },
+
+    "lava-botas": {
+        title: "LAVADOR DE BOTAS",
+
+        category: "Alimenticia e Farmacêuticas",
+
+        image: "assets/images/lava-botas-sem-fundo.png",
+
+        material: "Aço inox 304",
+
+        fabrication: "Fabricado sob medida",
+
+        application:"Linhas de produção que exigem auto padrão de limpeza",
+
+        description:
+            "Equipamento desenvolvido para a higienização eficiente de botas e e calçados de uso profissional.",
+
+        features: [
+
+            'Higienização Eficiente',
+
+            "Praticidade",
+
+            "Economia de água",
+
+            "Mais Segurança"
+        ]
+    },
+
+    "mesa-inox": {
+
+        title: "MEESA EM AÇO INOX",
+
+        category: "Alimenticia",
+
+        image: "assets/images/mesa-inox.png",
+
+        material: "Aço inox 304",
+
+        fabrication: "Fabricado sob medida",
+
+        application: "Indústria alimenticia geral",
+
+        description: 
+            "Mesa confeccionada em aço inox de alta qualidade, ideal para ambientes que exigem higiene, resistência e fácillimpeza.",
+
+        features: [
+
+            "Durabilidade",
+
+            "Higiene",
+
+            "Qualidade",
+
+            "Garantia"
+        ]
+    },
+
+    "carro-queijo": {
+
+        title: "CARROS PARA RESFRIAMENTO DE QUEIJPOS",
+
+        category: "Industria alimenticia",
+
+        image: "assets/images/carro-queijo.png",
+
+        material: "Aço inox 304",
+
+        fabrication: "Fabricado sob medida",
+
+        application: "Laticínios",
+
+        description: 
+            "Equipamentos desenvolvidos para atendes às exigências das indústrias alimentícias com segurança, higiene e durabilidade.",
+        
+        features: [
+
+            "Equipamento sob medida",
+
+            "Material de alta qualidade",
+
+            "Economia de água",
+
+            "Mais segurança"
+        ]
+    },
+
+    "prensa-queijos": {
+
+        title: "PRENSAS PARA QUEIJOS",
+
+        category: "Industria alimenticia",
+
+        image: "assets/images/prensa-queijo.png",
+
+        material: "Aço inox 304",
+
+        fabrication: "Fabricado sob medida",
+
+        application: "Laticínios",
+
+        description: 
+            "Equipamentos desenvolvidos para atendes às exigências das indústrias alimentícias com segurança, higiene e durabilidade.",
+        
+        features: [
+
+            "Equipamento sob medida",
+
+            "Material de alta qualidade",
+
+            "Economia de água",
+
+            "Mais segurança"
+        ]
+    },
+
+    "coifas": {
+        title: "COIFAS",
+
+        category: "Industria alimenticia",
+
+        image: "assets/images/coifa.png",
+
+        material: "Aço inox 304",
+
+        fabrication: "Fabricado sob medida",
+
+        application: "Restaurantes, padarias, lanchonetes e demais ambientes com alto padrão de limpeza",
+
+        description: 
+            "confeccionadas em aço inox de alta qualidade, ideal para ambientes que exigem higiene, resistência e fácil limpeza.",
+
+        features: [
+
+            "Higienização eficiente",
+
+            "Praticidade",
+
+            "Economia de água",
+
+            "Mais segurança"
+        ]
+    },
+
+    "bancadas": {
+        title: "BANCADAS",
+
+        category: "Industria alimenticia",
+
+        image: "assets/images/bancada.png",
+
+        material: "Aço inox 304",
+
+        fabrication: "Fabricado sob medida",
+
+        application: "Restaurantes, padarias, lanchonetes e demais ambientes com alto padrão de limpeza",
+
+        description: 
+            "confeccionadas em aço inox de alta qualidade, ideal para ambientes que exigem higiene, resistência e fácil limpeza.",
+
+        features: [
+
+            "Higienização eficiente",
+
+            "Praticidade",
+
+            "Economia de água",
+
+            "Mais segurança"
+        ]
+    },
+
+    "armario": {
+        title: "ARMÁRIOS EM AÇO INOX",
+
+        category: "Industrial alimenticia e geral",
+
+        image: "assets/images/armario.png",
+
+        material: "Aço inox 304",
+
+        fabrication: "Fabricado sob medida",
+
+        application: "Indústrias em geral",
+
+        description:
+            "Equipamento desenvolvido para atendeR às exigências das indústrias alimentícias com segurança, higiene e durabilidade",
+
+        features: [
+            
+            "Equipamentos sob medida",
+
+            "Economia de água",
+
+            "Materiais de qualidade",
+
+            "Mais segurança"
+        ]
+    },
+
+    "escada": {
+        title: "ESCADAS",
+
+        category: "Industrial alimenticia e geral",
+
+        image: "assets/images/escadas.png",
+
+        material: "Aço inox 304",
+
+        fabrication: "Fabricado sob medida",
+
+        application: "Indústrias em geral",
+
+        description:
+            "Equipamento desenvolvido para atender às exigências das indústrias alimentícias com segurança, higiene e durabilidade",
+
+        features: [
+            
+            "Equipamentos sob medida",
+
+            "Materiais de qualidade",
+
+            "Mais segurança"
+        ]
+    },
+
+    "carro-transporte": {
+        title: "CARROS TRANSPORTADORES",
+
+        category: "Industrial alimenticia e geral",
+
+        image: "assets/images/carro-transportador.png",
+
+        material: "Aço inox 304",
+
+        fabrication: "Fabricado sob medida",
+
+        application: "Indústrias em geral",
+
+        description:
+            "Equipamento desenvolvido para atender às exigências das indústrias alimentícias com segurança, higiene e durabilidade",
+
+        features: [
+            
+            "Equipamentos sob medida",
+
+            "Materiais de qualidade",
+
+            "Mais segurança"
+        ]
+    },
+
+    "calhas-ralos": {
+        title: "CALHAS E RALOS",
+
+        category: "Industrial alimenticia e geral",
+
+        image: "assets/images/calhas-ralos.png",
+
+        material: "Aço inox 304",
+
+        fabrication: "Fabricado sob medida",
+
+        application: "Indústrias em geral",
+
+        description:
+            "Equipamentos desenvolvidos para atender às exigências das indústrias alimentícias com segurança, higiene e durabilidade",
+
+        features: [
+            
+            "Equipamentos sob medida",
+
+            "Materiais de qualidade",
+
+            "Mais segurança"
+        ]
+    },
+
+    "carrinho-movimentacao": {
+        title: "CARRINHOS PARA MOVIENTAÇÃO DE CAIXAS",
+
+        category: "Industrias em geral",
+
+        image: "assets/images/carrinho-cx.png",
+
+        material: "Aço inox 304",
+
+        fabrication: "Fabricado sob medida",
+
+        application: "Indústrias em geral",
+
+        description:
+            "Fabricados com materiais de excelente qualidade, são a solução ideal para empresas que buscam durabilidade, produtividade e redução do esforço operacional.",
+
+        features: [
+            
+            "Esttutura metálica de alta resistência",
+
+            "Design ergonômico para melhor manuseio",
+
+            "Rodas pneumáticas que absorvem impactos e facilitam o transporte em diferentes pisos",
+
+            "Ideal para caixas, fardos, sacarias e diversos tipos de carga"
+        ]
+    },
+
+    "carro-plataforma": {
+        title: "CARRINHOS PLATAFORMA",
+
+        category: "Industrias em geral",
+
+        image: "assets/images/carrinho-plataforma.jpg",
+
+        material: "Aço inox 304",
+
+        fabrication: "Fabricado sob medida",
+
+        application: "Indústrias em geral",
+
+        description:
+            "Fabricados com materiais de excelente qualidade, são a solução ideal para empresas que buscam durabilidade, produtividade e redução do esforço operacional.",
+
+        features: [
+            
+            "Plataforma metálica reforçada de alta durabilidade",
+
+            "Alça tubular ergonômica para condução confortável",
+
+            "Rodas giratórias de alta resistência para melhor dirigibilidade",
+
+            "deal para movimentação de caixas, equipamentos, produtos e mercadorias em geral"
+        ]
+    },
+
+     "guarda-corpo": {
+        title: "GUARDA-CORPO EM AÇO INOX",
+
+        category: "Geral",
+
+        image: "assets/images/guarda-corpo-1.jpg",
+
+        material: "Aço inox 304",
+
+        fabrication: "Fabricado sob medida",
+
+        application: "Geral",
+
+        description:
+            "Item sob medida para rampas, escadas e áreas externas, unindo segurança e acabamento.",
+
+        features: [
+
+            "Fábricado sob medida",
+
+            "Desing moderno",
+
+            "Mais segurança"
+            
+        ]
+    },
+
+
+    "churrasqueira-inox": {
+        title: "CHURRASQUEIRA EM AÇO INOX ",
+
+        category: "Geral",
+
+        image: "assets/images/churrasqueira.png",
+
+        material: "Aço inox 304",
+
+        fabrication: "Fabricado sob medida",
+
+        application: "Geral",
+
+        description:
+            "A Churrasqueira Inox combina resistência, praticidade e um acabamento sofisticado, sendo ideal para quem busca qualidade e durabilidade. ",
+
+        features: [
+
+            "Fábricado sob medida",
+
+            "Resistente a corrosão",
+
+            "Alto desempenho no preparo",
+
+            "Fácil limpeza"
+            
+        ]
+    },
+
+    "churrasqueira-deslizante": {
+        title: "CHURRASQUEIRA COM GRELhA DESLIZANTE",
+
+        category: "Geral",
+
+        image: "assets/images/churraqueira-grelha.png",
+
+        material: "Aço inox 304",
+
+        fabrication: "Fabricado sob medida",
+
+        application: "Geral",
+
+        description:
+            "A Churrasqueira combina resistência, praticidade e um acabamento sofisticado, sendo ideal para quem busca qualidade e durabilidade. ",
+
+        features: [
+
+            "Fábricado sob medida",
+
+            "Resistente a corrosão",
+
+            "Alto desempenho no preparo",
+
+            "Fácil limpeza"
+            
+        ]
+    },
+
+    "esteira-tora": {
+        title: "ESTEIRAS DE TORA",
+
+        category: "Indústria madereia",
+
+        image: "assets/images/esteira.png",
+
+        material: "Consultar",
+
+        fabrication: "Fabricado sob medida",
+
+        application: "Indústrias Madereiras",
+
+        description:
+            "Resistência, precisão e produtividade para o processamento de madeira.",
+
+        features: [
+
+            "Estrutura robusta",
+
+            "Alto desempenho",
+
+            "Manutenção facilitada",
+
+            "Versatilidade"
+            
+        ]
+    },
+
+    "virador-tora": {
+        title: "VIRADOR DE TORA",
+
+        category: "Indústria madereia",
+
+        image: "assets/images/vira-tora.png",
+
+        material: "Consultar",
+
+        fabrication: "Fabricado sob medida",
+
+        application: "Indústrias Madereiras",
+
+        description:
+            "Resistência, precisão e produtividade para o processamento de madeira.",
+
+        features: [
+
+            "Estrutura robusta",
+
+            "Alto desempenho",
+
+            "Manutenção facilitada",
+
+            "Versatilidade"
+            
+        ]
+    },
+
 
 };
 
