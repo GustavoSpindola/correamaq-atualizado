@@ -128,7 +128,7 @@ document.addEventListener('DOMContentLoaded', () => {
         application: "Linhas de produção alimentícias",
 
         description:
-            "Equipamento desenvolvido para otimizar o fluxo de produção, proporcionando o acúmulo, organização e movimentação contínua de produtos entre diferente etapas do processo produtivo.",
+            "Equipamento desenvolvido para otimizar o fluxo de produção, proporcionando o acúmulo, organização e movimentação contínua de produtos entre diferentes etapas do processo produtivo.",
         
         features: [
 
@@ -186,7 +186,7 @@ document.addEventListener('DOMContentLoaded', () => {
         application: "Indústria alimenticia geral",
 
         description: 
-            "Mesa confeccionada em aço inox de alta qualidade, ideal para ambientes que exigem higiene, resistência e fácillimpeza.",
+            "Mesa confeccionada em aço inox de alta qualidade, ideal para ambientes que exigem higiene, resistência e fácil limpeza.",
 
         features: [
 
