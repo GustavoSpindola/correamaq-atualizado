@@ -154,10 +154,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
         fabrication: "Fabricado sob medida",
 
-        application:"Linhas de produção que exigem auto padrão de limpeza",
+        application:"Linhas de produção que exigem alto padrão de limpeza",
 
         description:
-            "Equipamento desenvolvido para a higienização eficiente de botas e e calçados de uso profissional.",
+            "Equipamento desenvolvido para a higienização eficiente de botas e calçados de uso profissional.",
 
         features: [
 
@@ -173,7 +173,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     "mesa-inox": {
 
-        title: "MEESA EM AÇO INOX",
+        title: "MESA EM AÇO INOX",
 
         category: "Indústria alimentícia",
 
@@ -438,7 +438,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         features: [
             
-            "Esttutura metálica de alta resistência",
+            "Estrutura metálica de alta resistência",
 
             "Design ergonômico para melhor manuseio",
 
@@ -472,7 +472,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
             "Rodas giratórias de alta resistência para melhor dirigibilidade",
 
-            "deal para movimentação de caixas, equipamentos, produtos e mercadorias em geral"
+            "Ideal para movimentação de caixas, equipamentos, produtos e mercadorias em geral"
         ]
     },
 
